@@ -1,0 +1,9 @@
+
+{
+  "enabled": false,
+  "version": 1,
+  "api_base_url": "",
+  "payment_api_url": "",
+  "admin_panel_url": "",
+  "refresh_seconds": 120
+}
